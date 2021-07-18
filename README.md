@@ -1,0 +1,2 @@
+# Designing-the-control-interface-to-move-the-base-creating-a-database-to-control-it-and-linking-the
+Designing the control interface to move the base, creating a database to control it, and linking the database with the control interface. php pages were created to connect the database with the hardware and integrate the control panel of the arm with the control panel of the base in one interface and transform the interface or display it as a mobile web view
